@@ -1,0 +1,11 @@
+1. As a customer,
+   I want to choose the time of the hair appointment,
+   so that I can book a slot in my free time.
+
+2. As a business,
+   I want to specify my head office address,
+   so that my customers can find me.
+
+3. As a customer,
+   I want to cancel my booking online,
+   so that I can avoid e-mails or calls.
