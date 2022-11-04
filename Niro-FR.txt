@@ -1,0 +1,7 @@
+1. When the booking is completed, the system shall create an event:
+	a. on customer’s Google Calendar at the booked day and hour, specifying the saloon’s address.
+	b. on business’s Google Calendar at the customer’s booked day and hour, specifying the customer’s name.
+
+2. When the booking is completed, the system shall send a confirmation e-mail, where address and hour are specified, to the customer.
+
+3. During the registration process, the system shall ask to the user if it is a costumer or a business.
